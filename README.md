@@ -1,4 +1,4 @@
-# Hi, I'm Mohammadreza 👋
+# Hi, I'm Mohammadreza Babaei 👋
 
 I'm interested in **Artificial Intelligence, Machine Learning, and Data Science**, with a background in software development and a growing focus on building intelligent, data-driven systems.
 
